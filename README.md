@@ -24,7 +24,8 @@ Perfect for automation, UI testing, macro scripting, and productivity tasks.
 2. **Run the `.exe` file** (no Python needed)
 3. Use the buttons or hotkeys to record/play actions
 4. Scripts are automatically saved to `Scripts/default.json`, or you can save/load custom ones
-
+Tips: If you want to wrap it up into .exe by yourself, do this in your terminal:
+pyinstaller --onefile --noconsole mouse_keyboard_gui.py
 > 🔧 Want to customize? Use the Python source file `mouse_keyboard_gui.py`.
 
 ---
