@@ -31,11 +31,8 @@ Perfect for automation, UI testing, macro scripting, and productivity tasks.
 
 ## 📂 File Structure
 
-/
-├── mouse_keyboard_gui.py # Python source code
-├── mouse_keyboard_gui.exe # Standalone executable
-├── Scripts/ # All recorded or imported .json scripts
-│ └── default.json
+<pre lang="markdown"><code>## 📂 File Structure ``` / ├── mouse_keyboard_gui.py # Python source code ├── mouse_keyboard_gui.exe # Standalone executable ├── Scripts/ # All recorded or imported .json scripts │ └── default.json ``` </code></pre>
+
 
 ---
 ## 📥 Releases
